@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>LOGO</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu">
+<li>Search by Districts</li>
+<li><a href="bilaspur.html">Bilaspur</a></li>
+<li><a href="chamba.html">Chamba</a></li>
+<li><a href="hamirpur.html">Hamirpur</a></li>
+<li><a href="kangra.html">Kangra</a></li>
+<li><a href="kinnaur.html">Kinnaur</a></li>
+<li><a href="kullu.html">Kullu</a></li>
+<li><a href="lahaul.html">Lahaul and Spiti</a></li>
+<li><a href="mandi.html">Mandi</a></li>
+<li><a href="shimla.html">Shimla</a></li>
+<li><a href="sirmaur.html">Sirmaur</a></li>
+<li class="active"><a href="#">Solan</a></li>
+<li><a href="una.html">Una</a></li>
+
+</div>
+<div class="col-10 col-m-12">
+<div class="section"><strong><font size="8" color="gray">SOLAN:</strong></font><BR><BR>
+Solan Known for its huge agricultural produces for Tomatoes and Mushrooms, Solan is often described as the Mushroom City of India and The City of Red Gold. The city is located at an average elevation of 1,600 meters above sea level and is the largest city in the state of Himachal Pradesh. Being a Gurkha capital of formerly known Princely state of Bhagat, the city is a cultural cauldron that contains a fine brew of culture, arts, religion and history. The city is full of a huge number of forts, monuments, temples, churches and various other places that can interest the tourists that visit Solan. Here is the list of the best places you must visit in Solan.
+<br>
+<p align="center"><img src="images/69.jpg"height="15%"width="60%"></p>
+<br><hr>
+<strong><font size="8" color="gray">Famous Places Around Solan :</strong></font><BR><BR><hr>
+
+<strong><font size="6" color="gray">Sharad Purnima Fair:</strong></font><br>
+
+<ul style="list-style-type: square;">
+<li>This fair is held at <span style="text-decoration: underline;">Unchagaon</span> (<span style="text-decoration: underline;">Kunihar</span>) in a ground surrounding the tank for two days in the month of January-February.</li>
+<li>It starts from ‘<span style="text-decoration: underline;">Puranmashi</span>’ and lasts uptil the next day.</li>
+<li>It is held in the honour of ‘<span style="text-decoration: underline;">Sharad Purnima</span>’ and ‘<span style="text-decoration: underline;">Devta Dano dev’</span> whose temple is on the bank of the tank.</li>
+<li>Worship is done on ‘<span style="text-decoration: underline;">Puranmashi</span>’ and ‘<span style="text-decoration: underline;">Sankrant</span>’ by a Brahmin.</li>
+</ul>
+<br>
+<p align="center"><img src="images/sharad.jpg"height="15%"width="40%"></p>
+<BR><hr>
+<strong><font size="6" color="gray">Dev Bara Fair:</strong></font><br>
+ul style="list-style-type: square;">
+<li>It is held at <span style="text-decoration: underline;">Mangal</span> <span style="text-decoration: underline;">Kandar</span> for three days from 21st March to 23rd March.</li>
+<li>This place is about 81 kms. from Shimla.</li>
+<li>The fair is held in the honour of ‘<span style="text-decoration: underline;">Devta</span> <span style="text-decoration: underline;">Baru</span>’.</li>
+<li>The deity is brought to Mangal Kandar on the 20th March.</li>
+<li>The idols of the deity are adorned with ornaments and cloth pieces.</li>
+<li>It is cooked and distributed among those present.</li>
+<li>On the 21st March, prayer is held.</li>
+<li>After this, the deity is carried on the shoulders by two persons and a dance is held.</li>
+<li>This continues for three days.</li>
+<li>On 23rd March Devta Baru is taken back.</li>
+</ul>
+<p align="center"><img src="images/dev.jpg"height="15%"width="40%"></p>
+<BR><hr>
+
+<strong><font size="6" color="gray">Koti Fair:</strong></font><br>
+
+<li>Koti fair is held at Koti village in Solan tahsil in the month of May/June for a day and a night.</li>
+<li>The fair is held in the honour of ‘<span style="text-decoration: underline;">Mira</span> <span style="text-decoration: underline;">Devi</span>’ whose temple is situated here.</li>
+<li>Sometimes a baby show is also arranged in the fair and the children who are healthy and in good physique are given gifts.</li>
+</ul>
+<p align="center"><img src="images/koti.jpg"height="15%"width="40%"></p>
+<BR><hr>
+<strong><font size="6" color="gray"> Shoolini Fair:</strong></font><br>
+<ul style="list-style-type: square;">
+<li>Shoolini fair is held in the honour of <a href="https://hpgeneralstudies.com/goddess-shoolini-temple-at-solan-himachal-pradesh/"><span style="text-decoration: underline;">Shoolini</span> <span style="text-decoration: underline;">Devi</span></a> whose temple is situated in the southern end of Solan.</li>
+<li>The fair is celebrated every year on the 2nd Sunday of June for four days.</li>
+<li>Wrestling is a prominent feature of the Solan fair.</li>
+</ul>
+<p align="center"><img src="images/shoolini.jpg"height="15%"width="40%"></p>
+<br>
+
+<hr>
+</div>
+</div>
+</div>
+
+<div class="footer">
+<p>Himachal Tourism</p>
+</div>
+
+</body>
+</html>
+

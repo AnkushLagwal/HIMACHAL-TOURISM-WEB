@@ -1,0 +1,20 @@
+<?php
+$host="localhost";
+$username="root";
+$password="";
+$database_name="tour_demo";
+
+$conn=mysqli_connect($host,$username,$password,$database_name);
+if($db)
+{
+	
+	
+    mysqli_select_db($db,$database_name);
+}
+else
+{
+	echo "could not connect to database";
+	
+}
+?>
+

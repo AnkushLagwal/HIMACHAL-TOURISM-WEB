@@ -1,0 +1,376 @@
+﻿<html>
+<head>
+<title></title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="style.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+
+  
+  
+  
+  
+  
+  
+  
+  <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="footer, address, phone, icons" />
+
+
+
+	<link rel="stylesheet" href="style.css">
+	
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+	<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  
+  
+  
+  
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Roboto&display=swap" rel="stylesheet">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/3/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  
+  
+  
+  
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="#">HIMACHAL TOURISM</a>
+  
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="home.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+      <a class="nav-link" href="login2.html">Admin LogIn</a>
+      </li>
+	   <li class="nav-item">
+        <a class="nav-link" href="reach.html">HowToReach</a>
+      </li> <li class="nav-item">
+        <a class="nav-link" href="destination.html">Destination</a>
+      </li> <li class="nav-item">
+        <a class="nav-link" href="aboutus.html">AboutUs</a>
+      </li>
+   
+        </div>
+      </li>
+      
+   
+</nav>
+
+<div id="demo" class="carousel slide" data-ride="carousel">
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+	<li data-target="#demo" data-slide-to="3"></li>
+	<li data-target="#demo" data-slide-to="4"></li>
+	<li data-target="#demo" data-slide-to="5"></li>
+	<li data-target="#demo" data-slide-to="6"></li>
+		<li data-target="#demo" data-slide-to="7"></li>
+			<li data-target="#demo" data-slide-to="8"></li>
+  </ul>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="him5.jpg" alt="HIMACHAL" width="1600"   height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="pic.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="him4.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+	<div class="carousel-item">
+      <img src="him101.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+	<div class="carousel-item">
+      <img src="him102.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+	<div class="carousel-item">
+      <img src="him103.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+	<div class="carousel-item">
+      <img src="him104.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+	<div class="carousel-item">
+      <img src="him105.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+	<div class="carousel-item">
+      <img src="himalayas.jpg" alt="Shimla" width="1600" height="500">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+
+
+
+
+
+<h1 class="text-center"> Welcome To Himachal</h1>
+<p>Tourism in Himachal Pradesh relates to tourism in the Indian state of Himachal Pradesh. This is popularly renowned for its Himalayan landscapes and popular hill-stations. Many outdoor activities such as rock climbing, mountain biking, paragliding, ice-skating, trekking, rafting, and heli-skiing are popular tourist attractions in Himachal Pradesh.
+
+Until the British reign, tourism in Himachal Pradesh was very limited to a few places around the hills and some spiritual destinations. The British developed hill stations during their reign one of them being Shimla which they called The Summer Capital of India. After the British rule, tourism in Himachal Pradesh was on the rise with the highest number of tourists in the mid 1980s and 1990s. 
+
+Shimla, the state capital, is popular among tourists. The Kalka-Shimla Railway is a mountain railway which is a UNESCO World Heritage Site. Shimla is also a famous skiing attraction in India. Other popular hill stations include Manali, Kinnuar, Kasol, Parvati Valley, Chamba, Kullu, Kinnar Kailesh, and Kasauli.
+
+Dharamshala, home of the Dalai Lama, is known for its Tibetan monasteries and Buddhist temples. Many trekking expeditions also begin here.
+
+The Ridge is a large road in Shimla which is the centre of most cultural activities of Shimla. Annadale is also a major tourist spot in Shimla with an Army Heritage Museum, a Golf Course, helipad and lush green nature.
+</p>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+<section class="my-5">
+<div>
+<h2 class="text-center"> Dev Bhoomii</h2>
+</div>
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="himalya.jpg" alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">Himalayas</h4>
+    <p class="card-text"></p>
+    <a href="himalayas.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="fairs.jpg" alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">Fairs & Festivals</h4>
+    <p class="card-text"></p>
+    <a href="D:\xampp\htdocs\dashboard\tour demo\fair\menu1.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="adventure.jpg" alt="Card image">
+  <div class="card-body">
+  
+    <h4 class="card-title">Adventure</h4>
+    <p class="card-text">
+	</p>
+    <a href="culture.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+</div>
+</div>
+</section>
+<h2 class="text-center">HIMACHAL PARDESH</h2>
+<section class="my-4">
+<div class ="py-4">
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-12">
+<img src="hamirpur.jpg" class=img-fluid pb-3">
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+<img src="bilaspur.jpg" class=img-fluid pb-4">
+
+
+
+</div>
+
+
+<div class="col-lg-4 col-md-4 col-12">
+<img src="shimla1.jpg" class=img-fluid pb-5">
+</div>
+
+
+
+<section class="my-4">
+<div class ="py-4">
+<div class="container-fluid">
+<div class="row">
+
+
+<div class="col-lg-4 col-md-4 col-12">
+<img src="Chamba2.jpg" class=img-fluid pb-4">
+</div>
+
+<div class="col-lg-4 col-md-4 col-12">
+<img src="mandi1.jpg" class=img-fluid pb-4">
+</div>
+
+<div class="col-lg-4 col-md-4 col-12">
+<img src="sirmaur.jpg" class=img-fluid pb-4">
+</div>
+
+
+</div>
+</div>
+</div>
+
+</div>
+
+
+  </form>
+  </section>
+  
+
+</div>
+
+</form>
+
+<footer class="footer-distributed">
+
+			<div class="footer-left">
+          <img src="logo.png">
+				<h3>About<span>Tourism</span></h3>
+
+				<p class="footer-links">
+					<a href="login.html">Home</a>
+					|
+					<a href="#"></a>
+					|
+					<a href="aboutus.html">AboutUs</a>
+				
+				</p>
+
+				<p class="footer-company-name">2022 HIMACHAL TOURISM</p>
+			</div>
+
+			<div class="footer-center">
+				<div>
+					<i class="fa fa-map-marker"></i>
+					  <p><span>A.B.V.G.I.E.T. Pragatinagar,SHIMLA-171202</p>
+				</div>
+
+				<div>
+					<i class="fa fa-phone"></i>
+					<p>+91 8988925154</p>
+				</div>
+				<div>
+					<i class="fa fa-envelope"></i>
+					<p><a href="mailto:support@eduonix.com">himachaltourism@gmail.com</a></p>
+				</div>
+			</div>
+			<div class="footer-right">
+				<p class="footer-company-about">
+					<span>Follow Us On</span>
+					<div class="footer-icons">
+					<a href="https://www.facebook.com/himachaltourismofficial/"><i class="fa fa-facebook"></i></a>
+					<a href="https://twitter.com/hp_tourism"><i class="fa fa-twitter"></i></a>
+					<a href="https://www.instagram.com/himachaltourismofficial/"><i class="fa fa-instagram"></i></a>
+				
+					<a href="https://www.youtube.com/channel/UCYGp33H-FBLiQ51YOTfDZww"><i class="fa fa-youtube"></i></a>
+				</div>
+			</div>
+		</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+
+</body>
+</html>

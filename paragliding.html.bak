@@ -1,0 +1,49 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+</div>
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu"></div>
+<title></title>		
+<div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="paragliding 1.jpg" alt="HIMACHAL" width="1600" height="550">
+      <div class="carousel-caption">
+        <h3></h3>
+        <p></p>
+      </div>   
+    </div>				
+						
+						
+						<div class="fusion-sep-clear"></div><div class=<p>Paragliding is perhaps the closest you can get to sailing the skies as a free bird, almost at will, dipping and wheeling high over the hills and valleys. The recreational activity is dangerous but if done under strict supervision, it’s thrilling and adventurous.</p>
+<p>Paragliding can be done solo and tandem at <strong>Bir-Billing in Kangra</strong> district. It is counted amongst the best paragliding sites anywhere in the world and is frequently picked for <strong>hosting the World Cup</strong> and other international competitions in the sport.</p>
+<p>The rising hills of Billing provide amazing thermals that with a gush of moderate winds make for a good take-off with the landing being at the terraced grounds of Bir. Other delightful sites for paragliding in <strong>Himachal include Bandla Dhar near Bilaspur</strong> and <strong>Solang valley near Manali</strong>.</p>
+<p>In solo paragliding, trained pilots fly alone in a paraglider, whereas in Tandem flights, a trained pilot tags an amateur guest along in his glider to have him experience the thrill of free flying. Tandem flights are what most enthusiasts love to indulge in.</p>
+<p>For those wanting to take up the adventure sport,<strong> Himachal Tourism conducts training programmes at Bir and Dharamsala (Kangra).</strong></p>
+<p>A new paragliding site is now available at <strong>Junga near Shimla in district Shimla</strong>, where adventure enthusiast can enjoy paragliding.</p>
+</div><div class="fusion-clearfix"></div>
+<div class="footer">
+<p>Himachal Tourism...</p>
+</div>
+</body>
+</html>

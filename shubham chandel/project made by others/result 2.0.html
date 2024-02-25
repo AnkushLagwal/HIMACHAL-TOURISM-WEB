@@ -1,0 +1,84 @@
+
+<html>
+<head>
+<title>ABVGIET</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.container {
+  position: relative;
+  text-align: center;
+  color: green;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+</style>
+<link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
+</head>
+
+<body>
+
+<div class="container">
+  <img src="img1.jpg" style="width:100%;">
+
+<div id="container">
+<header>
+<h1><a href="register.php">ABVGIET Poly Result</a></h1>
+</header>
+
+<ul id="main_menu">
+
+<li><a href="search.php" title="Users list">Search</a></li>
+<li><a href="login.php" title="Login private area">Login</a></li>
+</ul>
+
+<form method="post" action="register_action.php">
+<fieldset>
+<legend>Register</legend>
+<p>
+<label>Full name: </label> <input type="text" name="name" /> <br>
+<br>
+<label>Email: </label> <input type="email" name="email" /> <br>
+<br>
+<label>Roll no: </label> <input type="roll no" name="roll" /> <br>
+<br>
+<label> Select year </label> 
+<select>  
+<option value = "1st"> 1st
+</option>  
+<option value = "2nd"> 2nd  
+</option>  
+<option value = "3rd"> 3rd 
+</option>  
+
+</select>  
+<br> <br>
+
+<label>Date of birth (yyyy-mm-dd): </label><input type="date" name="date_of_birth" /> 
+<br>
+
+
+<br>
+<p class="center"><input value="show result" type="submit" /></p>
+</fieldset>
+</form>
+
+
+ <div class="top-left"><header>
+<h1><a href="register.php">ABVGIET </a></h1>
+</header>
+</div>
+
+
+
+
+
+
+
+</div>
+</body>
+</html>

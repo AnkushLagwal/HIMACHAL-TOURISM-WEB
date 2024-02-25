@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="file:///D:/xampp/htdocs/dashboard/tour%20demo/login.html">Home</a></li>
+<li><a href="menu1.html" class="active">Visit Himachal</a></li>
+<li><a href="aboutus.html">AboutUs</a></li>
+
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu">
+<li>Search by Districts</li>
+<li><a href="bilaspur.html">Bilaspur</a></li>
+<li><a href="chamba.html">Chamba</a></li>
+<li><a href="hamirpur.html">Hamirpur</a></li>
+<li><a href="kangra.html">Kangra</a></li>
+<li><a href="kinnaur.html">Kinnaur</a></li>
+<li><a href="kullu.html">Kullu</a></li>
+<li><a href="lahaul.html">Lahaul and Spiti</a></li>
+<li><a href="mandi.html">Mandi</a></li>
+<li><a href="shimla.html">Shimla</a></li>
+<li><a href="sirmaur.html">Sirmaur</a></li>
+<li><a href="solan.html">Solan</a></li>
+<li><a href="una.html">Una</a></li>
+
+</div>
+<div class="col-10 col-m-12">
+<div class="section">
+<strong><font size="8" color="gray">Fair and Festival:</strong></font><br><hr>
+
+The land of majestic landscape and spectacular vistas, Himachal Pradesh is also a place of diverse and multiple colourful fairs and festivals. The people of this state celebrate its rich culture, social diversity and tradition with great pomp and show and pay immense gratitude for its rich natural beauty, and seek the blessings of the almighty for prosperity. The diversity keeps the state’s year calendar quite busy with celebrations. Apart from the major Hindu population, Himachal is also home to a fair amount of Buddhist, Muslims and few tribes like Gaddis, Kinnars, Jadun, Tanolis, Gujjars, Pangawals and Lahaulis, each has a festival or two of their own.
+
+The lower and upper regions have their different fairs and festivals that are the reflection of the diverse cultures and traditions. There a number of religious fairs & festivals like Halda Festival. Dedicated to the Goddess of Wealth, Shashikar Apa, this festival is organized to celebrate the New Year and it also involves a bonfire which symbolizes the unity of the community. Dussehra is an important Hindu religious festival of Northern India and its celebration in Himachal is no exception. However, a different Dussehra celebration can be witnessed in Kullu Valley. The Kullu Dussehra involves the worshipping of the Lord Raghunath, instead of burning an effigy of Ravana and numerous dance and music performance are made. Along with the festivals, there are a number of religious fairs like the Shivratri Fair in Mandi, Minjar Fair and Mani Mahesh Chhari Yatra in Chamba, Renuka fair in Sirmaur, Vrajeshwari fair in Kangra, Jwalamukhi Fair in Jwalamukhi, Holi Fair in Sujanpur Tira, and Naina Devi Fair in Bilaspur Peeplo Fair, and the 'Mairi' Guruduwara Fair,  Chintpurni temple Fair, Kamakhya temple Fair are organized with great zeal and enthusiasm.
+
+Himachalis also welcome each season with great joy and offer prayers to the gods and hold celebrations. The spring season marks the blossoming of flowers in the Kullu Valley. To celebrate its arrival, the Doongri Fair is organized at the Hadimba Temple in Kullu. Celebrated to bring happiness and prosperity to the region, the Chet Festival is organized on the first day of the first month of the lunar year. This festival is widely celebrated in the areas of Kangra, Hamirpur and Bilaspur.
+
+images
+The Fulaich Festival in Kinnaur is about the flower-watching and is celebrated in the month of September. In Sirmaur area, Chaitraul Festival is celebrated in April and May, it is also well-known as the festival of pictures. The Tibetan Buddhist festival, Losar in Lahaul & Spiti is the celebrated to welcome the new year in February or March. The state not only engages in celebration of religious and cultural festivals, but also holds several tourism festivals to promote its culture and traditions in different times of the year. Held in Manali, in the month of January, the Himachal Winter Carnival is one of the most popular festivals of the state. It celebrates the culture and tradition of the region through music, folk dance performances, food festivals and street plays. Experience the mesmerizing charm of the white landscapes of Himachal Pradesh during the winters with the help of the Ice Skating Carnival, held in Shimla every year. With its skating, ice hockey and skiing activities, this carnival is an adventurer's delight. <hr>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="footer">
+<p>Himachal Tourism.....</p>
+</div>
+
+</body>
+</html>
+

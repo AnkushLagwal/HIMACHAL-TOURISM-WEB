@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu">
+<li>Search by Districts</li>
+<li><a href="bilaspur.html">Bilaspur</a></li>
+<li><a href="chamba.html">Chamba</a></li>
+<li><a href="hamirpur.html">Hamirpur</a></li>
+<li><a href="kangra.html">Kangra</a></li>
+<li><a href="kinnaur.html">Kinnaur</a></li>
+<li><a href="kullu.html">Kullu</a></li>
+<li class="active"><a href="#">Lahaul and Spiti</a></li>
+<li><a href="mandi.html">Mandi</a></li>
+<li><a href="shimla.html">Shimla</a></li>
+<li><a href="sirmaur.html">Sirmaur</a></li>
+<li><a href="solan.html">Solan</a></li>
+<li><a href="una.html">Una</a></li>
+
+</div>
+<div class="col-10 col-m-12">
+<div class="section"><strong><font size="8" color="gray">LAHAUL and SPITI:</strong></font><br><br>
+One of the 3 least populated districts in India, Lahaul and Spiti is a high altitude district in Himachal Pradesh. The place is famous for its various high altitude trek trails and a rich Tibetan influenced culture. Being home to a huge list of monasteries, flora, and fauna and various high mountain passes and rivers, Lahaul and Spiti is a major tourist attraction. The best places to visit in Lahaul and Spiti are as follows.
+
+<br>
+<p align="center"><img src="images/40.jpg"height="15%"width="60%"></p>
+<hr>
+<strong><font size="8" color="gray">Famous Places Around Kangra :</strong></font><br><hr>
+<br><br>
+<strong><font size="6" color="gray">1. Ki-Gompa (Key Gompa):</strong></font><br><br>
+
+Also known as Key Gompa, The monastery was founded in the 11th century. The Ki-Gompa is the largest of the Buddhist Monasteries located in Lahaul and Spiti. The Monastery is located at a picturesque location atop a hill at 4,166 meters above sea level. The views from the top of the monastery are amazing and provide some breathtaking views from a massive height.
+<br>
+<p align="center"><img src="images/41.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">2. Kunzum Pass:</strong></font><br><br>
+
+
+Located at an average elevation of 4,590 meters above sea level, Kunzum Pass is one of the famous high altitude passes in Himachal Pradesh. The pass connects the Lahaul valley and Spiti valley to the Kullu valley and is famous for its various trek spots which give way to the hidden Moon Lake.
+<br>
+<p align="center"><img src="images/42.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">3. Dhankar Gompa:</strong></font><br><br>
+
+
+The Dhankar Gompa is located at an elevation of 3,894 meters above sea level and is placed at an exquisite location atop a 300 meter high hillock. The monastery is one of the 100 most endangered sites in the world due to its harsh and often inaccessible roads. Nevertheless, the location provides the most amazing views of the surroundings.
+<br>
+<p align="center"><img src="images/43.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">4. Pin Valley National Park:</strong></font>
+<br><br>
+Pin Valley National Park is located in the cold desert area of the Spiti valley and is known for being a habitat to the various endangered animals species like the snow leopard and the Siberian Ibex. Despite of the sparse vegetation, the park is known as a source for various sorts of medicinal herbs and various endangered plant species.
+<br>
+<p align="center"><img src="images/44.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">5. Tabo Monastery:</strong></font>
+<br><br>
+
+
+The monastery was founded in 996 AD and is one of the oldest operating Buddhist monasteries in India and Himachal Pradesh. The Tabo Monastery is also protected by the Archeological Survey of India and is a UNESCO world heritage site and is often called as the Ajanta of the Himalayas due to its various rock paintings and stone carvings.
+One of the least populated areas of Himachal Pradesh, Lahaul and Spiti is known for its various natural resources and the surroundings of the mighty Himalayas. 
+<br>
+<p align="center"><img src="images/45.jpg"height="15%"width="40%"></p>
+<BR>
+<hr>
+</div>
+</div>
+</div>
+
+
+
+<div class="footer">
+<p>&copy; Copyright 1997</p>
+</div>
+
+</body>
+</html>
+

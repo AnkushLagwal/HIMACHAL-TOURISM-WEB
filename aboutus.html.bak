@@ -1,0 +1,212 @@
+<html>
+<head>
+
+
+ <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="imagestyle.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+   <link rel="form" type="text/php" href="Login.php">=
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" href="css/styles.css" type="text/css" media="all" />
+</head>
+<title>About:-Himachal Tourism</title>
+<link rel="stylesheet" type="text/css" href="CSS/style.css" />
+
+
+
+
+
+<body>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Himachal Tourism</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+	
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="login.html">Home</a>
+        </li>
+		     
+
+		
+		<li class="nav-item">
+          <a class="nav-link " href="about.html">About Us</a>
+        </li>
+     
+      </ul>
+     </div>
+  </div>
+</nav>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script> 
+  
+
+
+</body>
+
+
+
+
+<div id="container">
+<div id="content">
+<div id="navigation">
+
+
+</div>
+</div>
+
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="about-section">
+  <h1>About Us </h1>
+  <p></p>
+</div>
+<h2 style="text-align:center">Our Team</h2>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="hacker.jpg" alt="vishu" style="width:100%">
+      <div class="container">
+        <h2>Vishal Chauhan</h2>
+        <p class="title">Frontend+Backend Developer</p>
+        <p></p>
+        <p><button class="button">7876793196</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="hacker2.jpg" alt="Anku" style="width:100%">
+      <div class="container">
+        <h2>Ankush Lagwal</h2>
+        <p class="title">Frontend+Backend Developer<p>
+        <p></p>
+        <p><button class="button">+91 98056-57931</button></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="hacker4.jpg" alt="Aman" style="width:100%">
+      <div class="container">
+        <h2>Achintya Dwivedi</h2>
+        <p class="title">Frontend Developer</p>
+        <p></p>
+        <p><button class="button">7018416867</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="column">
+    <div class="card">
+      <img src="hacker5.jpg" alt="Ajay Singh" style="width:100%">
+      <div class="container">
+        <h2>Pallavi Thakur </h2>
+        <p class="title"></p>
+        <p></p>
+        <p><button class="button">7807719449</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="column">
+    <div class="card">
+      <img src="hacker6.jpg" alt="Shashank_Sharma" style="width:100%">
+      <div class="container">
+        <h2>Vidisha Verma</h2>
+        <p class="title"></p>
+        <p></p>
+        <p><button class="button">8219992548</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>

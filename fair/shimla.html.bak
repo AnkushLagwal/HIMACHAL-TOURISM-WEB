@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu">
+<li>Search by Districts</li>
+<li><a href="bilaspur.html">Bilaspur</a></li>
+<li><a href="chamba.html">Chamba</a></li>
+<li><a href="hamirpur.html">Hamirpur</a></li>
+<li><a href="kangra.html">Kangra</a></li>
+<li><a href="kinnaur.html">Kinnaur</a></li>
+<li><a href="kullu.html">Kullu</a></li>
+<li><a href="lahaul.html">Lahaul and Spiti</a></li>
+<li><a href="mandi.html">Mandi</a></li>
+<li class="active"><a href="#">Shimla</a></li>
+<li><a href="sirmaur.html">Sirmaur</a></li>
+<li><a href="solan.html">Solan</a></li>
+<li><a href="una.html">Una</a></li>
+
+</div>
+<div class="col-10 col-m-12">
+<div class="section"><strong><font size="8" color="gray">SHIMLA:</strong></font>
+<br><br>
+
+
+The majestic snow clad mountains, stunningly rich greenery and the beautiful lakes in the land of Shimla greet you to enjoy their timeless beauty. Certain places on earth do boast of places that equal or even surpass the beauty of Shimla. However, Shimla which is one of the most visited tourist spot in Himachal Pradesh holds magic in the air, which is beyond comparison. No wonder it is called the Queen of Hill Stations.
+The land so captivated the minds of the British when they ruled India that it was made their summer capital. The influence of British presence is glaringly evident in its buildings. One of the best features of Shimla is that you could visit it any season during a year. Here are some leading attractions of Shimla, which necessarily find a place in any tourists itinerary.
+<br>
+<p align="center"><img src="images/53.jpEg"height="15%"width="60%"></p>
+<br>
+<HR>
+<strong><font size="12" color="gray">Famous Places Around Shimla :</strong></font><br>
+
+<br><hr>
+<strong><font size="6" color="gray">1.Summer Festival:<br></strong> </font>
+Festivals of Shimla are celebrated with a great deal of fanfare and the summer festival is no exception. Held on the famous ridge ground, the summer festival emanates every year in the month of May at Shimla. This celebration is loaded with colors and is commended with extraordinary ceremonies. To begin with, individuals who are experts in their fields come to Shimla and enthrall crowds with their incredible exhibitions. In addition, there are sports activities, exhibitions, dog shows, flower shows, fashion shows and live performances and competitions. A five-day musical brings together men and women who gather and enjoy the melodious sequence of singing and dancing. The entire thought behind the Shimla Summer Festival is to welcome the onset of the mid-year season. The festival is likewise an approach to thank the divine beings for the rich collect. And what is really great about this festival is the fact that the Shimla Summer Festival is non-ticketed which means that you won’t be charged any kind of entry fee. Amazing, isn’t it?
+<br>
+<p align="center"><img src="images/summer.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">2.Ice Skating Carnival:<br> </strong></font>
+Welcome to the winter wonderland! Ice-skating in Shimla is a major fascination for the game darlings during winter. Since Shimla is the lone spot in Asia which has the advantage of having a natural Ice-Skating arena of its kind, people enjoy every inch of it. Ice-skating ordinarily starts in the beginning of December and goes on till the end of February. There are two sessions consistently, in the first part of the day and in the evening relying upon the frozen ice on the ground. There’s a hanging balloon on the Municipal Building nearby Scandal Point which functions as a sign, regardless of whether the skating will be hung on that day or not. Membership is accessible for the season just as for more limited terms and in any event, for single sessions. Basic equipment like skates, caps, knee pads etc. are accessible at the rink.
+<br>
+<p align="center"><img src="images/ice.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">3.Bhoj Fair:<br></strong> </font>
+OK now, let’s move towards upper Shimla, Rohru. There’s this village in Rohru called Guman. Every year in November, particularly for three days, a fair is held in honor of Devta Bansor, Parshu Ram, and Kilbaru. In Himachal, every village has its own deity of which Devta Bansor is the presiding deity. How come we’re celebrating something in Himachal and not performing Natti, our beloved Dance. Almost not. Besides paying homage to the Deities, ‘Nati’ Dance is performed by the people. Huge crowd gathers at the event and enjoys the vibe.
+<br>
+<p align="center"><img src="images/bhoj.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">4.Lavi Fair:<br></strong> </font>
+A trade fair in Bushahr state! Present day Rampur Bushahr, a place 100 km away from Shimla. The Lavi Fair is almost 400 years old and traces all the way back to time when Raja Kehari Singh of Rampur Bushahr state marked a settlement to advance exchange with Tibet. The shepherds of Kinnaur travel to warmer places before the onset of winter and on their way they halt at Rampur. During the fair, woolen stuff, dry fruits and medicinal herbs brought by them are purchased by the people and the traders of the plains. Moreover, food grains, clothes and utensils are sold. The main attraction during the fair is sale and purchase of Chamurthi horses, an endangered species of horse which traces its origin to the Tibet region. Additionally ‘Natti’ dances and cultural shows at night are a sight for sore eyes.  
+<br>
+<p align="center"><img src="images/lavi.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">5.Rohru Fair:<br></strong> </font>
+This fair is held in Rohru, a town approximately 100 km from Shimla, on the ninth and tenth of Baisakh (April) in the vicinity of river Pabbar. In honor of Devta Shikru, this fair is celebrated by the individuals of adjacent towns who are the followers of the Devta. The fair begins with the Shobha Yatra of Shikru Devta from Gangtoli, a nearby village, to Devta’s Temple. Hundreds of devotees join the procession. Additionally, day and night cultural events are organized at the Ramlila ground. During the day-time, students from different schools show their talents whereas in the evening artists from different states entertain the audience. Sports such as Volleyball, table tennis, boxing and badminton are the other highlights of the fair. It is an exceptionally old fair and is held to honor the incomparability of the divinity. Apart from the ‘Nati’ dance, brisk exchanging is likewise done. People are costumed in their best clothing and can be seen enjoying the fair.
+<br>
+<p align="center"><img src="images/rohru.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">6.Mahasu Jatar:<br> </strong></font>
+At about 65 km from Shimla-Kotkhai road there’s this village called Mahasu, where this fair is celebrated for two days probably on the third Tuesday in the month of Baisakh. It is held in front of the temple of Durga Devi which was constructed by Rana of Badoli. It is believed that a Rana of Badoli lived in Chakroth near Mahasu and after the abolition of his Jagir, Rana left the village and the villagers of Mahasu constructed a temple of Durga in their own village. That’s the time this fair started. However, as per local stories, Rana and his family died leaving no heir to the throne. It was the ‘Gharaiks’ and the Rana of Balsan who started MAHASU JATAR in respect of the Goddess Durga. The fair is witnessed by a huge crowd. During the jubilation, Natti dance is performed. The highly competed archery game is the center of attraction. As the fair ends, a goat is sacrificed.
+<br>
+<p align="center"><img src="images/muhasu.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">7.Pathar Ka Khel:<br> </strong></font>
+This is something you might find interesting. Pathar Ka Khel is held in village Halog of Dhami, a one hour ride from Shimla. Halog was the capital of the Dhami state. The fair is held on the second day of Diwali in the period of Kartik (November). It is said that in antiquated occasion’s human sacrifice used to be offered to Goddess Kali consistently at where the fair is currently held. It is additionally said that on this day the widow of a leader of the state performed ‘Satti’ and that prior to doing as such she had requested to make human penance since. Later, one of the queens of the Dhami estate decided to end the practice of human sacrifice and the ‘Pathar Mela’ became an auxiliary. Stones are pelted in the air in a pleasant manner and the moment it hits someone, the Goddess’ tilak is done with the injured blood and the stone pelting is stopped. Aside from the stone pelting game the ‘Hindola’ ride is additionally appreciated. Witnessing this fair surely calls for a tradition which has been kept alive by the locals.
+<br>
+<p align="center"><img src="images/pathar.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">8.Sipi Fair:<br> </strong></font>
+Every year this fair is held at Sihpur below Mashobra on the first of Jaistha (May) to pay tribute to Sip Devta. It is an exceptionally old fair and the Rana of Koti used to be the central guest. A large number of individuals of the encompassing regions partake in the fair. As per local people the spot orders of significant strict and magical importance. Nobody goes through the night here. The profundity of the faith can be checked from the way that the guests even residue their clothes prior to getting back to the homes so that even a brief molecule of the residue, a property of Seep divinity , isn’t out of hand. A goat is butchered out of appreciation for the divinity. Besides several cultural programmes, variety shows, ‘Karyala’, Performance of the jugglers, magicians and acrobats provide additional entertainment to the onlookers.
+
+So, now as you get to know how true-blue the people of Himachal are, hope it’s clear why Himachal is known as ‘Dev Bhoomi’. Individuals here praise its rich culture, social variety and custom with an incredible grandeur and show their appreciation for its natural beauty, in return seeking blessings of almighty for prosperity. The cheerful and empowering demeanors of people during the remarkable occasions of fairs and festivities can be seen by and large through their food, outfits, society dance, music, decorations and expansive festivals. Hope you witness them soon!
+<br>
+<p align="center"><img src="images/61.jpg"height="15%"width="40%"></p>
+<br><hr>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="footer">
+<p>Himachal Tourism</p>
+</div>
+
+</body>
+</html>
+

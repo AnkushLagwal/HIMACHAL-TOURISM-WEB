@@ -1,0 +1,31 @@
+<html>    
+<head>    
+    <title>Login page</title>    
+    <link rel="stylesheet" type="text/css" href="style2.css">    
+
+</head>    
+<body  style="background-image:lock.jpg;">
+    
+    <h2>Login Here</h2><br>    
+    <div class="login">    
+     <form name="f1" action="check.php" method="post">	
+        <label><b>User Name:     
+        </b>    
+        </label>    
+        <input type="text" name="uname" id="uname" placeholder="Username">    
+        <br><br>    
+        <label><b>Password:     
+        </br>    
+        </label>    
+        <input type="Password" name="psw" id="psw" placeholder="Password">    
+        <br><br>  
+<input type="submit" class="btn btn-primary" name="login" id="login" value="LogIn ">       
+        <br><br>    
+        <input type="checkbox" id="check">		
+        <span>Remember me</span>    
+        <br><br>    
+        
+    </form>     
+</div>    
+</body>    
+</html>

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu">
+<li>Search by Districts</li>
+<li><a href="bilaspur.html">Bilaspur</a></li>
+<li><a href="chamba.html">Chamba</a></li>
+<li><a href="hamirpur.html">Hamirpur</a></li>
+<li><a href="kangra.html">Kangra</a></li>
+<li><a href="kinnaur.html">Kinnaur</a></li>
+<li><a href="kullu.html">Kullu</a></li>
+<li><a href="lahaul.html">Lahaul and Spiti</a></li>
+<li><a href="mandi.html">Mandi</a></li>
+<li><a href="shimla.html">Shimla</a></li>
+<li><a href="sirmaur.html">Sirmaur</a></li>
+<li><a href="solan.html">Solan</a></li>
+<li class="active"><a href="#">Una</a></li>
+
+</div>
+<div class="col-10 col-m-12">
+<div class="section"><strong><font size="8" color="gray">UNA:</strong></font><BR><BR>
+At an elevation of 1210 feet, the hottest district in the state, Una, is referred to as the Gateway to Himalayas. The land seems an exception in Himachal Pradesh, where most of the cities are in the hilly region. If you intend to visit the place in summer, you need to have cotton clothes to make your stay comfortable. Here are the destinations in Una.
+<br>
+<p align="center"><img src="images/75.jpg"height="15%"width="60%"></p>
+<br>
+<hr>
+<strong><font size="8" color="gray">Fair and Festivel in Una :</strong></font><br><br>
+
+
+<br><hr>
+<strong><font size="6" color="gray">1. Chintpurni:</strong></font><br>
+
+<ul style="list-style-type: square;">
+<li>The shrine of Chintpurni is located 3 kms. away from a place known as Bharwain on Hoshiarpur–Dharamshala road on ridge top of Solashinghi range.</li>
+<li>At Chintpurni three famous fairs are held every year, first is known as the Chaitra Navratras fair in the month of March-April, second as Shravan Ashtmi fair in the month of August and the third one known as Kartik Navratras fair in the month of August.</li>
+<li>Shravan Ashtmi fair is the main fair among the three where lacks of devotees come from different parts of the country and abroad to pay their homage.</li>
+</ul>
+<br>
+
+<p align="center"><img src="images/77.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">2.Gurudwara of Sahib Sigh Ji Bedi:</strong></font><br>
+
+
+
+<ul style="list-style-type: square;">
+<li>The Gurudwara is situated in Una town within the precinct of Una fort and was founded by the descendant of Baba Guru Nanak Dev Ji.</li>
+<li>According to the District Gazetteer of Hoshiarpur (1884) Bedi Baba Kaladhari, a descendant of Baba Nanak, crossed over from Dera Baba Nanak (Gurdaspur), early in the 19th centuary and after wandering in the Jalandhar Doaba area for years, ultimately settled down at Una where he laid foundation of Una town.</li>
+<li>Here he attracted huge crowd of followers who flocked to hear his eloquent disquisition on the Granth Sahib. In Samvat 1860 (1804 A.D.)</li>
+<li>Raja Umed Singh gave to Baba Sahib Singh Ji Bedi, the whole of the Una Taluk (177 villages) as Jagir which was confirmed by Maharaja Ranjit Singh in Samvat 1872 and about the same time he received Nurpur Taluka from Sardar Budha Singh.</li>
+<li>Thus the principality of Bedi’s of Una went flourishing and expanding till it was taken over by the British.</li>
+<li>Even Now the descendants of Baba Kaladhari live in the fort of Una. Every year in the month of February/March a fair is held here to commemorate the Baba Kaladhari.</li>
+</ul>
+<br>
+<p align="center"><img src="images/guru.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">3.Pir Nigaha:</strong></font><br>
+<ul style="list-style-type: square;">
+<li>This shrine is situated in Basoli about 8 kms. from Una.</li>
+<li>This is said to be the handi-work of ‘Pandavas’ but later appropriated by Muslims.</li>
+<li>A fair is also held every thursday in May/June.</li>
+<li>It is believed that the cattle are brought over here to get secured of the diseases.</li>
+<li>People assemble in large numbers.</li>
+</ul>
+<br>
+<p align="center"><img src="images/78.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">4.Panjgatra:</strong></font><br>
+
+<ul style="list-style-type: square;">
+<li>Panjgatra at Babhaur on the bank of Satuj is held on first Baisakhi day.</li>
+<li>It is purely a religious festival.</li>
+<li>The people gather and take bath in the river Satluj.</li>
+<li>The name is from five stones said to have been used by the sons of the Pandavas in the game of Panch Satara.</li>
+</ul>
+<br>
+<p align="center"><img src="images/79.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">5.Baisakhi and Holi:</strong></font><br>
+<ul style="list-style-type: square;">
+<li>The fair at Mairi near Amb is held on Holi, where large number of people use to assemble.</li>
+<li>Principally people from Doaba and Manjha-Malwa assemble here and offer prayers to Dera Baba Barbhag Singh.</li>
+<li>Another fair is held on the day of Baisakhi, which is attended mostly by people from Kangra district.</li>
+<li>Yet another fair in Thakurdwara of Dharamsala is held on the day of Baisakhi and Holi.</li>
+</ul>
+<br>
+<p align="center"><img src="images/80.jpg"height="15%"width="40%"></p>
+<BR>
+
+<hr>
+
+</div>
+</div>
+</div>
+
+
+
+<div class="footer">
+<p>Himachal Tourism</p>
+</div>
+
+</body>
+</html>
+

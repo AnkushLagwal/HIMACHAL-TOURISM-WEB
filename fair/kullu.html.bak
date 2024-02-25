@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+
+<div class="row">
+<div class="col-2 col-m-2">
+
+<ul class="menu">
+<li>Search by Districts</li>
+<li><a href="bilaspur.html">Bilaspur</a></li>
+<li><a href="chamba.html">Chamba</a></li>
+<li><a href="hamirpur.html">Hamirpur</a></li>
+<li><a href="kangra.html">Kangra</a></li>
+<li><a href="kinnaur.html">Kinnaur</a></li>
+<li class="active"><a href="#">Kullu</a></li>
+<li><a href="lahaul.html">Lahaul and Spiti</a></li>
+<li><a href="mandi.html">Mandi</a></li>
+<li><a href="shimla.html">Shimla</a></li>
+<li><a href="sirmaur.html">Sirmaur</a></li>
+<li><a href="solan.html">Solan</a></li>
+<li><a href="una.html">Una</a></li>
+
+</div>
+<div class="col-10 col-m-12">
+<div class="section"><strong><font size="8" color="gray">KULLU:</strong></font><br>
+Kullu in Himachal Pradesh is one of the most frequented tourist destinations. Often heard along with the name Manali, yet another famous tourist spot, Kullu is situated on the banks of Beas River. It was earlier called as Kulanthpitha, meaning is The end of the habitable world. Awe-inspiring, right? Kullu valley is also known as the Valley of Gods. Here are some leading destinations in the magical land.
+<br><br><p align="center"><img src="images/39.jpg"height="15%"width="60%"></p>
+<hr>
+<strong><font size="8" color="gray">Famous Places Around Kullu :</strong></font><br><hr>
+<strong><font size="6" color="gray">1. Kullu Dussehra:<br> </strong></font>
+
+Dussehra is celebrated in most parts of the country on Vijya Dashmi to commemorate the victory of Rama over demon king Ravana. The highlight of this fair is The victory of good over evil.
+
+Kullu Dussehra is however, different in certain ways from Dussehra celebrations in the other parts of the country. It presents cultural ethos of the people and their deep rooted religious beliefs which manifest during this festival with traditional songs, dances and colorful dress. It begins on Vijya Dashmi and lasts for a week. There is an interesting story behind the beginning of Dussehra Festival. And now also, the internationally famous Dussehra of Kullu is celebrated  in the same tradition.
+<br>
+<p align="center"><img src="images/31.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">2.Pipal Jatra/ Vasantotsava:<br><br></strong> </font>
+
+The traditional name of Vasantotasava is Pipal Jatra or it is also called Rai-ri-Jach. It takes place at Dhalpur, Kullu on 16th Baisakh every year. The Raja of Kullu was used to sit in front of the ’Kala Kendra’ on a raised platform of Pipal Tree alongwith his courtiers and the traditional dance was held in front of him. Once about 16 Kullu gods participated in this fair but by and by it lost its grandeur. In 1976 AD efforts were made to revive this fair with the help of Himachal Academy of Arts, Culture and Language. The Baishakha is the month of Blooming spring season in Kullu Valley. So the fair has been renamed as Vasantotsava or Spring festival. Cultural programs are organized with classical music songs and dances. Vanstosava is now held from 28th April to 30th April every year. It is also very significant from the business point of view. The people belonging to Lahaul begin to return to their native place after passing cold wither in the valley. This fair gives them an opportunity to buy their agricultural tools and other useful/ needful equipment’s and items.
+<br>
+<p align="center"><img src="images/32.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">3. Shamshi Virshu:<br> </strong></font>
+
+This fair is held on 1st Baisakh (April 13) for one day in village Khokhan. The fair is religious and seasonal. The legend connected with he moved by the alluring beauties of the hill springs used to dance at this place with her girl friends who were daughters of Rishis and Munis. The local inhabitants also regard themselves as the progeny of the daughters of those Rishis and Munis. The goddess is worshiped outside and then it is taken inside the temple. The people offer young yellow sheets of barley which are specially sown for the occasion to be offered to the Devi along with garlands. Then a he goat is scarified. Thereafter the women sing and dance around the Rahta carrying the Devi. The devi is also danced about. Men-fold stay on as spectators and on-lookers.
+<br>
+<p align="center"><img src="images/33.jpg"height="15%"width="40%"></p>
+<br><hr>
+<strong><font size="6" color="gray">4. Mela Bhuntar:<br> </strong></font>
+
+The fair is held on 1st Ashad (June-July) for 3 days in village Bhunter. The fair is seasonal and religious. The fair was started by the Devta of the ilaqua Suraj Pal. Palaghmiar a Devta from mardo also attends. From this day the use of food grains from the newly harvested crops starts after cooked food offerings are made to the gods and then the meal is shared by other relatives and friends. This is known as ’Tahoolikhana’ in the local terminology.
+
+<br>
+<p align="center"><img src="images/34.jpg"height="15%"width="40%"></p>
+<br><hr>
+
+
+
+<div class="footer">
+<p>&copy; Himachal Pradesh</p>
+</div>
+
+</body>
+</html>
+

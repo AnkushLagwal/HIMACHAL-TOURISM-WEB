@@ -1,0 +1,206 @@
+<html>
+<head>
+<html>
+<head>
+<title></title>
+<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="style.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+
+  
+  
+  
+  
+  
+  
+  
+  <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="footer, address, phone, icons" />
+
+
+
+	<link rel="stylesheet" href="style.css">
+	
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+
+	<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  
+  
+  
+  
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Roboto&display=swap" rel="stylesheet">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/3/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet"  type="text/css" href="style.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout1.css" />
+
+</head>
+<body>
+
+</div>
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">HIMACHAL TOURISM</a>
+  
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="login.html">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li c
+      </li> <li class="nav-item">
+        <a class="nav-link" href="aboutus.php">AboutUs</a>
+      </li>
+	  
+        </div>
+      </li>
+      
+   
+</nav>
+
+</ul>
+</div>
+
+<div>
+<h2 class="text-center"> Adventure</h2>
+</div>
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="river.jpg" alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">RiverRafting</h4>
+    <p class="card-text"></p>
+    <a href="River Rafting.html" class="btn btn-primary">View More</a>
+	
+  </div>  
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="Golf.jpg" alt="Card image">
+  <div class="card-body">
+  
+    <h4 class="card-title">Golf</h4>
+    <p class="card-text">
+	</p>
+    <a href="golf.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+
+
+
+
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="Paragliding.jpg" alt="Card image">
+  <div class="card-body">
+  
+    <h4 class="card-title">Paragliding</h4>
+    <p class="card-text">
+	</p>
+    <a href="paragliding.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="camping.jpg" alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">Camping</h4>
+    <p class="card-text"></p>
+    <a href="camping.html" class="btn btn-primary">View More</a>
+	
+  </div>  
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-10">
+<div class="card" >
+  <img class="card-img-top" src="Trekking.jpg" alt="Card image">
+  <div class="card-body">
+    <h4 class="card-title">Trekking</h4>
+    <p class="card-text"></p>
+    <a href="Trekking.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-12">
+<div class="card" >
+  <img class="card-img-top" src="vehicle.jpg" alt="Card image">
+  <div class="card-body">
+  
+    <h4 class="card-title">Vehicle Safari</h4>
+    <p class="card-text">
+	</p>
+    <a href="Vehicle safari.html" class="btn btn-primary">View More</a>
+  </div>  
+</div>
+</div>
+  </div>  
+</div>
+</div>
+</section>
+</P>
+
+</p>
+<div class="footer">
+<p>Himachal Tourism...</p>
+</div>
+</body>
+</html>

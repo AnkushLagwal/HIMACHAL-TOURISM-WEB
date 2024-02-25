@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="css/img.css" />
+<link rel="stylesheet" type="text/css" href="css/links.css" />
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+
+</head>
+<body>
+
+<div class="header">
+<h1>HIMACHAL TOURISM</h1>
+
+</div>
+<div class="nav">
+<ul class="topnav">
+<li><a href="home.html">Home</a></li>
+<li><a href="menu.html">Visit Himachal</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="#" class="active">Contact</a></li>
+</ul>
+</div>
+<div class="row">
+<div class="col-12 col-m-12">
+<h1>For any kind of information please contact:-</h1><br>
+
+<h3>Group Teacher:</h3>Mr. Nishant Sharma-8580524477<br>
+
+<h3>Group members:-</h3><br>
+Vishal Chauhan-7876793196<br>
+Achintya Dwivedi-7018416867<br>
+Ankush Lagwal-9805657931<br>
+Pallavi Devi-7807719449<br>
+Vidisha Verma-8219992548<br>
+
+
+</div>
+</div>
+
+<div class="footer">
+<p>Himachal Tourism....</p>
+</div>
+
+</body>
+</html>
+
